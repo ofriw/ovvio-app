@@ -1,0 +1,28 @@
+{
+  "en": {
+    "myWorkspaces": "My Workspaces",
+    "selectAll": "Select All",
+    "unselectAll": "Unselect All",
+    "none": "None",
+    "assignee": "Member",
+    "teamLeader": "Team Leader",
+    "add": "Add Workspace",
+    "addShort": "Add",
+    "invite": "Invite to Workspace",
+    "inviteShort": "Invite",
+    "workspaceSettings": "Settings",
+    "hideWorkspace": "Hide for me",
+    "showWorkspace": "Show for me",
+    "hidden": "Hidden",
+    "hiddenShort": "Hidden",
+    "templates": "Templates",
+    "templatesShort": "Templates",
+    "setTemplate": "Set as Template",
+    "unsetTemplate": "Unset as Template",
+    "inDemo": "This is not available while in demo",
+    "GoToHelpCenter": "Go To Help Center",
+    "GoToHelpCenterShort": "Help",
+    "myWorkspace": "My Workspace",
+    "myWorkspaceShort": "My Workspace"
+  }
+}
